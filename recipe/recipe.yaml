@@ -1,6 +1,5 @@
 context:
   version: "2.2.19"
-  python_min: "3.11"
 
 package:
   name: fastcore
